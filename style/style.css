@@ -10,6 +10,25 @@ body {
   text-align: justify;
 }
 
+#divCover {
+  align-content: center;
+}
+
+.container #cover {
+  width: 100%;
+  height: auto;
+}
+
+
+/*
+#cover {
+  background-image: url("../images/poplogo.png");
+  max-width: 736px;
+  height: auto;
+  position: absolute;
+}
+*/
+
 .content-scroll {
   color: #b5b5b5;
   box-sizing: border-box;
