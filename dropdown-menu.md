@@ -1,3 +1,4 @@
+# Dropdown menu in markdown
 Code:
 ````
 <details>
@@ -18,7 +19,6 @@ Code:
 </div>
 ````
 
-# Dropdown menu in markdown
 Example:
 <details>
   <summary>open me</summary>
