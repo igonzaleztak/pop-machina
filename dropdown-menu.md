@@ -13,6 +13,11 @@ Example:
   </ul>
 </details>
 
+<div>
+  <h2 id="section1">Section1</h2>
+</div>
+
+
 Code:
 ````
 <details>
@@ -32,7 +37,3 @@ Code:
   <h2 id="section1">Section1</h2>
 </div>
 ````
-
-<div>
-  <h2 id="section1">Section1</h2>
-</div>
