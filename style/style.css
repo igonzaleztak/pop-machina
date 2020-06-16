@@ -6,8 +6,10 @@ body {
 
 .container {
   max-width: 736px;
+  width: 100%;
   background-color: #ffffff;
   text-align: justify;
+  color: black;
 }
 
 #divCover {
@@ -16,6 +18,8 @@ body {
 
 .container #cover {
   width: 100%;
+  margin: auto;
+  display: block;
   height: auto;
 }
 
@@ -45,6 +49,7 @@ body {
 
 .entry {
   text-align: justify;
+  color: black;
 }
 
 .entry p {
@@ -57,10 +62,10 @@ body {
 }
 
 .content-scroll .vertical-nav {
-  min-width: 17rem;
-  width: 17rem;
-  height: 100vh;
-  position: absolute;
+  min-width: 270px;
+  width: 270px;
+  height: 100%;
+  position: fixed;
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -70,4 +75,17 @@ body {
 
 .separator {
   padding-top: 50px;
+}
+
+.img-entry {
+  width: 100%;
+  position: relative;
+  align-content: center;
+}
+
+.img-entry #logo {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
