@@ -89,3 +89,17 @@ body {
   margin-right: auto;
   display: block;
 }
+
+.entry-ol {
+  padding-left: 3%;
+  margin-top: -1%;
+  margin-bottom: -1%;
+}
+
+.entry-ol ul {
+  padding-left: 3%;
+}
+
+.entry-ol ul li {
+  margin-top: -2%;
+}
